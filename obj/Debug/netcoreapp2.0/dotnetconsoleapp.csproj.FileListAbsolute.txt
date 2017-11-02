@@ -1,0 +1,10 @@
+D:\git Repos\dotnetconsoleapp\bin\Debug\netcoreapp2.0\dotnetconsoleapp.deps.json
+D:\git Repos\dotnetconsoleapp\bin\Debug\netcoreapp2.0\dotnetconsoleapp.runtimeconfig.json
+D:\git Repos\dotnetconsoleapp\bin\Debug\netcoreapp2.0\dotnetconsoleapp.runtimeconfig.dev.json
+D:\git Repos\dotnetconsoleapp\bin\Debug\netcoreapp2.0\dotnetconsoleapp.dll
+D:\git Repos\dotnetconsoleapp\bin\Debug\netcoreapp2.0\dotnetconsoleapp.pdb
+D:\git Repos\dotnetconsoleapp\obj\Debug\netcoreapp2.0\dotnetconsoleapp.csproj.CoreCompileInputs.cache
+D:\git Repos\dotnetconsoleapp\obj\Debug\netcoreapp2.0\dotnetconsoleapp.AssemblyInfoInputs.cache
+D:\git Repos\dotnetconsoleapp\obj\Debug\netcoreapp2.0\dotnetconsoleapp.AssemblyInfo.cs
+D:\git Repos\dotnetconsoleapp\obj\Debug\netcoreapp2.0\dotnetconsoleapp.dll
+D:\git Repos\dotnetconsoleapp\obj\Debug\netcoreapp2.0\dotnetconsoleapp.pdb
